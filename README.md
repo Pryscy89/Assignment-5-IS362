@@ -13,3 +13,9 @@ ratings for each user and each movie.
 normalized ratings instead of the actual ratings.
 5. [Extra credit] Create another new pandas dataframe, with standardized ratings for each user.
 Once again, show the average ratings for each user and each movie.
+
+<img width="1179" alt="Screenshot 2024-02-13 at 9 13 59 PM" src="https://github.com/Pryscy89/Assignment-7-IS362/assets/114356398/ebb6a658-d29d-491f-9906-43d3a5ba044c">
+
+
+
+<img width="1164" alt="Screenshot 2024-02-13 at 9 14 08 PM" src="https://github.com/Pryscy89/Assignment-7-IS362/assets/114356398/031aa131-0533-4491-8822-f79079adbe30">
